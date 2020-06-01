@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="72" started-at="2020-05-06T16:18:14 EEST" finished-at="2020-05-06T16:18:14 EEST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="72" started-at="2020-05-06T16:18:14 EEST" finished-at="2020-05-06T16:18:14 EEST">
+      <class name="radoslavmainproject.RestAPITest">
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:radoslavmainproject.RestAPITest@4e9ba398]" name="deleteTwitter" duration-ms="5" started-at="2020-05-06T16:18:14 EEST" finished-at="2020-05-06T16:18:14 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method status="PASS" signature="postJira()[pri:0, instance:radoslavmainproject.RestAPITest@4e9ba398]" name="postJira" duration-ms="0" started-at="2020-05-06T16:18:14 EEST" finished-at="2020-05-06T16:18:14 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- radoslavmainproject.RestAPITest -->
+      <class name="radoslavmainproject.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:radoslavmainproject.SeleniumTest@527740a2]" name="BrowserAutomation" duration-ms="0" started-at="2020-05-06T16:18:14 EEST" finished-at="2020-05-06T16:18:14 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="elementsUI()[pri:0, instance:radoslavmainproject.SeleniumTest@527740a2]" name="elementsUI" duration-ms="1" started-at="2020-05-06T16:18:14 EEST" finished-at="2020-05-06T16:18:14 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUI -->
+      </class> <!-- radoslavmainproject.SeleniumTest -->
+      <class name="radoslavmainproject.AppiumTest">
+        <test-method status="PASS" signature="NativeAppAndroid()[pri:0, instance:radoslavmainproject.AppiumTest@6d7b4f4c]" name="NativeAppAndroid" duration-ms="0" started-at="2020-05-06T16:18:14 EEST" finished-at="2020-05-06T16:18:14 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAppAndroid -->
+        <test-method status="PASS" signature="someApps()[pri:0, instance:radoslavmainproject.AppiumTest@6d7b4f4c]" name="someApps" duration-ms="1" started-at="2020-05-06T16:18:14 EEST" finished-at="2020-05-06T16:18:14 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- someApps -->
+      </class> <!-- radoslavmainproject.AppiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
